@@ -5,5 +5,6 @@ used *react + vite* to build this movie website which features...
 - API integration (TMDB)
 - interactive css
 
+<br/>
 
-It isn't complete soo...
+_PS - It isn't complete or for deployment._
