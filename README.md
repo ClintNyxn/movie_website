@@ -1,5 +1,5 @@
 used *react + vite* to build this movie website which features...
-- search feature
+- search
 - page routing
 - bookmarks page
 - API integration (TMDB)
