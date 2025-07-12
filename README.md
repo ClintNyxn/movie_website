@@ -1,1 +1,4 @@
-used react + vite
+used *react + vite* and has...
+- search feature
+- page routing
+- bookmarks page
