@@ -1,4 +1,5 @@
-used *react + vite* and has...
+used *react + vite* to build this movie website and has...
 - search feature
 - page routing
 - bookmarks page
+- API integration (TMDB)
